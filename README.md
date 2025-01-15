@@ -8,3 +8,7 @@
 - Cookies
 - Apples
 - Pizza
+- Ice Cream
+- Yogurt
+- Ground Beef
+- Bananas
